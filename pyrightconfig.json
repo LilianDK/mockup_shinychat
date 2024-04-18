@@ -1,0 +1,7 @@
+{
+  "ignore": ["venv", "typings", "docs"],
+  "typeCheckingMode": "strict",
+  "reportUnusedFunction": "none",
+  "reportPrivateUsage": "none",
+  "reportUnnecessaryIsInstance": "none"
+}
